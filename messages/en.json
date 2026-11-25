@@ -1,0 +1,11 @@
+
+{
+  "App": {
+    "name": "PlanningApp",
+    "description": "Plan your next journey with ease."
+  },
+  "Navigation": {
+    "myTrips": "My Trips",
+    "profile": "Profile"
+  }
+}
